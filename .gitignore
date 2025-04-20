@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit specific
+.streamlit/
+
+.DS_Store
+
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Temporary files
+*.swp
+*.bak
+*.tmp
